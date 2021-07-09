@@ -4,10 +4,12 @@ Glocash WooCommerce extension
 <h3>Getting Started</h3>
 
 <h4>Installation</h4>
+
 1. Check if you have installed `Woocommerce` and install `Woocommerce` plugin first if you have not install it.
-2. Go to your WordPress admin area and click on `Plugins` -> `Add New`.
-3. Type in `Glocash` in Search Plugins box and you should be able to find the the Glocash Plugin.
-4. Click `Install Now` to install the Glocash Plugin.
+2. Go to your WordPress admin area and click on `Plugins` -> `Install Plugins` -> `Upload Plugins`.
+3. Select the `glocash.zip` file and click Install now.
+   
+
 
 
 <h4>Setup</h4>
