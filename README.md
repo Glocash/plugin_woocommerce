@@ -12,7 +12,7 @@ Glocash WooCommerce extension
 
 
 
-<h4>Setup</h4>
+<h4>Setup</h4> 
 
 1. Log in to Wordpress administration, click on the `Plugins` tab.
 2. Find `WooCommerce Glocash` in the plugin overview and activate it.
